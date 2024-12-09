@@ -361,6 +361,13 @@ var thirteenStrings = [
     // Toki Pona
     "tu tu tu tu tu tu wan",
     "luka luka tu wan",
+
+    "on uch" // Uzbek
+    "o'n uch" // Uzbek
+    "o`n uch" // Uzbek
+    "o'nnuch" // Uzbek
+    "o`nnuch" // Uzbek
+    "он уч" // Uzbek Cyrllic
 ];
 
 module.exports = {
